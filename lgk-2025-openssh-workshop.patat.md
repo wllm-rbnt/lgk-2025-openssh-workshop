@@ -1019,7 +1019,7 @@ Setup:
 
 ```sshschema
 (gateway)$ http_proxy=socks5h://127.0.0.1:1234 curl http://icanhazip.com
-<Conference public IP address>
+<LGK public IP address>
 ```
 
 ---
